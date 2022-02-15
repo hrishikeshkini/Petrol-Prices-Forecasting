@@ -8,7 +8,7 @@
   * [Bugs & Logs](#bugs--logs)
   * [Contributors](#contributors)
 
-![Screenshot](download.jpg)
+![Screenshot](download.png)
 
 
 ## Problem Statement
