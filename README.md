@@ -31,7 +31,6 @@ Feature Engineering : Removed missing values and created new features as per ins
 
 Model Building & Testing : Tried many machine learning algorithms and checked the base accuracy to find the best fit.
 
-Model Building using Auto SKLearn(Auto ML)
 
 ## Technologies Used
  
