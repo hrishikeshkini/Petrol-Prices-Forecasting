@@ -18,7 +18,7 @@ In this project we will try to forecast the different petrol prices for the upco
 
 We will use LSTM and ARIMA forecasting models to predict the prices then we will see how we can implement the same using Auto Keras, which is an Auto ML Library.
 
-![Auto Sklearn](autokeras.png)
+![Autokeras](autokeras.png)
 
 An AutoML system based on Keras. It is developed by DATA Lab at Texas A&M University
 
